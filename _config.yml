@@ -1,0 +1,53 @@
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.9170218405779451
+  lightness: 0.899990058504045
+  saturation: 0.8671245104633272
+  rhythmicContrast: 0.26263959612697363
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Asimov
+layout_spectrum: 0.46321816951967776
+typography_spectrum: 0.9295571998227388
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="http://hdwpro.com/wp-content/uploads/2017/03/Colorful-Background.jpg">
+    src: 'http://hdwpro.com/wp-content/uploads/2017/03/Colorful-Background.jpg'
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'http://hdwpro.com'
+        name: Hdwpro
+        favicon: null
+        domain: hdwpro.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'http://hdwpro.com/wp-content/uploads/2017/03/Colorful-Background.jpg'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Asimov
+description: Your AI Agency
+purpose:
+  - type: contact
+    url: 'tel:+6449749633'
+    label: Call Now
+github: true
