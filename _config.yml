@@ -1,3 +1,4 @@
+typography_spectrum: 0.9295571998227388
 color:
   brandColors:
     - '#2C3E50'
@@ -9,6 +10,9 @@ color:
   lightness: 0.899990058504045
   saturation: 0.8671245104633272
   rhythmicContrast: 0.26263959612697363
+github: true
+layout_spectrum: 0.46321816951967776
+name: Asimov
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,9 +20,11 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Asimov
-layout_spectrum: 0.46321816951967776
-typography_spectrum: 0.9295571998227388
+navigation:
+  - name: AI for YOU?
+    id: 6673e266-b354-47d5-b0c2-f13b2e3d4be3
+    type: content
+title: Asimov
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -27,27 +33,25 @@ content:
       src="http://hdwpro.com/wp-content/uploads/2017/03/Colorful-Background.jpg">
     src: 'http://hdwpro.com/wp-content/uploads/2017/03/Colorful-Background.jpg'
     metadata:
-      author: []
+      datePublished: null
+      isBasedOnUrl: 'http://hdwpro.com/wp-content/uploads/2017/03/Colorful-Background.jpg'
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'http://hdwpro.com'
         name: Hdwpro
         favicon: null
         domain: hdwpro.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: 'http://hdwpro.com/wp-content/uploads/2017/03/Colorful-Background.jpg'
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Asimov
 description: Your AI Agency
 purpose:
   - type: contact
     url: 'tel:+6449749633'
     label: Call Now
-github: true
